@@ -32,6 +32,8 @@ public class Stepdefenition {
 	public void login_should_be_successfull() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		Assert.assertEquals("OrangeHRM",title);
+		System.out.println("uma");
+		
 	}
 
 }
